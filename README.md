@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 Welcome to my profile! I'm a mother, Apache Arrow committer contributing to PyArrow, Iyengar Yoga practitioner and certified teacher. I have previously worked at Voltron Data and interned at Quansight. Thanks for visiting!
 
