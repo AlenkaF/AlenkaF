@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Welcome to my profile!
-**I'm a mother, Apache Arrow committer contributing to PyArrow, Iyengar Yoga practitioner and certified teacher.**
+Welcome to my profile!<br>
+**I'm a mother, Apache Arrow committer contributing to PyArrow, Iyengar Yoga practitioner and certified teacher.**<br>
 I have previously worked at Voltron Data and interned at Quansight. Thanks for visiting!
 
 - 🔭 I mostly use Python and Cython, here and there R and C++ 
